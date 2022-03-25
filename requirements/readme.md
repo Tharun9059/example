@@ -2,12 +2,13 @@
 
   ## High Level Requirements
 
-| Test ID              | Description                                                                                                     |
+| Test ID              | Low Level Requirement for HL01                                                                                                     |
 | :------------------ | :-------------------------------------------------------------------------------------------------------------- |
-| 0_Certificates      |  certifications for the project                                                                      |
-| 1_Requirements      | Capture all the requirements wrt system, module, interface, integration, testing, functional and non-functional |
-| 2_Architecture      | UML diagrams specifying design details                                                                         |
-| 3_Implementation    | Code and documentation                                                                                          |
+| LL01                |  If the Switch is on the buld will glow                                                                      |
+| LL02                |  If the Switch is off the buld will not glow                                                                  |
+
+| Test ID             | Low Level Requirements for HL02                                                                                                   |
+| 3_Impleme   | Code and documentation                                                                                          |
 | 4_TestPlanAndOutput | Details of test plan and procedure                                                                             |
 | 5_Report            | Documented report                                                                                               |
 | 6_Images            | Images showcasing project outputs                                                                    |
