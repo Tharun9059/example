@@ -8,7 +8,7 @@
 | LL02                |  If the Switch is off the buld will not glow                                                                  |
 
 | Test ID             | Low Level Requirements for HL02                                                                                                   |
-| 3_Impleme   | Code and documentation                                                                                          |
+| LL01                |                                                                                           |
 | 4_TestPlanAndOutput | Details of test plan and procedure                                                                             |
 | 5_Report            | Documented report                                                                                               |
 | 6_Images            | Images showcasing project outputs                                                                    |
