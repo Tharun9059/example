@@ -12,7 +12,7 @@
 | 4_TestPlanAndOutput | Details of test plan and procedure                                                                             |
 | 5_Report            | Documented report                                                                                               |
 | 6_Images            | Images showcasing project outputs                                                                    |
-| 7_References        | References of the code                                                                               |
+| 7_References        | References of the coe                                                                               |
 
 
 
